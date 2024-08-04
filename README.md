@@ -2,7 +2,7 @@
 
 Generate custom Open Graph (OG) images for your blog posts or web pages with ease.
 
-Live Demo(not yet available): [https://og-image-generator.vercel.app/](https://og-image-generator.vercel.app/)
+Live Demo: [https://og-image-generator-by-shivam.vercel.app/](https://og-image-generator-by-shivam.vercel.app/)
 
 ## Overview
 
